@@ -1,0 +1,10 @@
+[project]
+name = "googleagentadktry"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-adk>=0.4.0",
+    "httpx[socks]>=0.28.1",
+]
